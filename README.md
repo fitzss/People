@@ -6,6 +6,10 @@
 ### Sam Kupyer
 ### Brett Hall
 
+## Social
+### Brett Hall
+### Arjun Khemani
+
 ## Software
 ### Mauricio Salaboy
 ### Andreas Bilhaimer
@@ -19,5 +23,10 @@
 ### Peter Thiel
 
 
+
+## Crypto
+### Charles Hoskinson
+### Alex Cherpurnoy
+### Armeanio
 
 
