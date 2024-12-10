@@ -4,7 +4,7 @@
 ### David Deutsch
 ### Chiara Marletto
 ### Sam Kupyer
-### Brett Hall
+
 
 ## Social
 ### Brett Hall
